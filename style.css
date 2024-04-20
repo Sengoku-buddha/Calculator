@@ -1,0 +1,32 @@
+.body{
+    width: 400px;
+    height: 480;
+    background: rgb(70, 58, 63);
+    margin-left: 450px;
+    margin-top: 45px;
+    border: solid white;
+}
+
+.bd{
+    background: black;
+}
+#screen{
+    height: 40px;
+    width: 350px;
+    margin-left: 22px;
+    margin-top: 20px;
+    border: solid rgb(180, 157, 157);
+
+}
+.btn{
+    width: 45px;
+    height: 43px;
+    margin-left: 43px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    user-select: none;
+    background: chocolate;
+    font-weight: bold;
+     color: rgb(0, 0, 0);
+     font-size: large;
+}
